@@ -1,19 +1,7 @@
 Repository Name: CONTACT_FORM_email
 
 Description:
-This repository, CONTACT_FORM_email, is designed to provide a simple and customizable contact form that can be easily integrated into websites. It offers a straightforward way for users to send emails through a website without needing a server-side script.
-
-Features:
-
-HTML Form: The repository includes an HTML file that contains the structure of the contact form. Users can customize this form to suit their website's design and requirements.
-
-JavaScript Validation: JavaScript is used to validate the form inputs, ensuring that required fields are filled out and that the email format is correct.
-
-SMTPJS Integration: The form utilizes SMTPJS, a client-side library for sending emails using JavaScript. This means that no backend or server-side script is required to send emails.
-
-Customizable Parameters: Users can easily adjust parameters such as the sender's email, recipient's email, subject, and message body to tailor the contact form to their needs.
-
-Easy Integration: Since it's based on HTML, CSS, and JavaScript, the contact form can be integrated into any website with minimal effort.
+This repository, CONTACT_FORM_email, is designed to provide a simple and customizable contact form that can be easily integrated into websites. It offers a straightforward way for users to send emails through a website.
 
 How to Use:
 
